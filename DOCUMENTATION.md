@@ -12,9 +12,3 @@ Execução da função
 
 ---
 
-## generate_docs.sh
-#!/bin/bash
-Script para gerar documentação em Markdown a partir de scripts Shell
-
----
-
